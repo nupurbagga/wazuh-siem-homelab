@@ -11,6 +11,8 @@
 Cybersecurity homelab using Wazuh SIEM to monitor file integrity on Windows
 
 ## Tools
+| Tool | Purpose |
+| ---- | ------- |
 | VirtualBox | Virtualization Platform |
 | Ubuntu Server | Wazuh Manager |
 | Windows 11 | Monitored Endpoint |
